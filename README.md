@@ -1,0 +1,2 @@
+# javascriptassignment
+Assignments for trainings
